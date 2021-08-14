@@ -1,6 +1,0 @@
-#[MITM]
-hostname = *.bilibili.com
-
-#[rewrite_local]
-# 打开浏览器访问: https://www.bilibili.com 或 https://live.bilibili.com
-^https:\/\/(www|live)\.bilibili\.com\/?.? url script-request-header https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.cookie.js
