@@ -1,4 +1,4 @@
-{"name":"tony",
+{"name":"韭零后",
   "task":[
     {
       "config":"1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js, tag=中国联通, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/10010.png, enabled=true",
@@ -25,5 +25,5 @@
       "addons":"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_signin.qxrewrite,tag=什么值得买_获取Cookie"
     }
   ],
-  "description":"Script Gallery"
+  "description":"QX Script Gallery"
 }
