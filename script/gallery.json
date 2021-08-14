@@ -5,7 +5,7 @@
       "addons":"https://raw.githubusercontent.com/amsmoking/quanx/master/script/10010/unicom_signin.qxrewrite,tag=联通_获取Cookie"
     },
     {
-      "config":"1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.js, tag=中国移动, img-url=http://www.10086.cn/uploadBaseDir/content/jpg/20190403/201904031545204594pd.jpg, enabled=true",
+      "config":"1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.js, tag=中国移动, img-url=https://raw.githubusercontent.com/Orz-3/task/master/10086.png, enabled=true",
       "addons":"https://raw.githubusercontent.com/amsmoking/quanx/master/script/10086/mobile_sigin_qxrewrite,tag=移动_获取Cookie"
     },
     {
