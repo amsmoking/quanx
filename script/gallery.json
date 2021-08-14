@@ -1,8 +1,10 @@
 {"name":"韭零后",
-  "task":[
-    {
-      "config":"1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.fee.js, tag=中国移动, img-url=https://raw.githubusercontent.com/Orz-3/task/master/10086.png, enabled=true",
-      "addons":"https://raw.githubusercontent.com/amsmoking/quanx/master/script/10086/mobile_sigin_qxrewrite,tag=移动_获取Cookie"
-    }
-  "description":"QX Script Gallery"
-}
+    "task":[
+      {
+        "config":"1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.js, tag=bilibili, img-url=https://raw.githubusercontent.com/Orz-3/task/master/10086.png, enabled=true",
+        "addons":"https://raw.githubusercontent.com/amsmoking/quanx/master/script/10086/mobile_sigin_qxrewrite,tag=移动_获取Cookie"
+      }
+    ]
+    "description":"QX Script Gallery"
+  }
+  
