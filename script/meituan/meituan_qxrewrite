@@ -5,5 +5,5 @@ hostname = i.meituan.com
 ^https:\/\/i.meituan.com\/evolve\/signin\/signpost\/ url script-request-body https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.cookie.js
 
 # 美团
-#打开 APP , 然后手动签到 1 次, (`首页` > `红包签到`)
-10 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.js
+# 打开 APP , 然后手动签到 1 次, (`首页` > `红包签到`)
+# 10 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.js
