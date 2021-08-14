@@ -1,0 +1,29 @@
+{"name":"blackmatrix7",
+  "task":[
+    {
+      "config":"1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js, tag=中国联通, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/10010.png, enabled=true",
+      "addons":"https://raw.githubusercontent.com/amsmoking/quanx/master/script/10010/unicom_signin.qxrewrite,tag=联通_获取Cookie"
+    },
+    {
+      "config":"00 9 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js, tag=滴滴出行, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi.png, enabled=true",
+      "addons":"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.qxrewrite,tag=滴滴出行_获取Cookie"
+    },
+    {
+      "config":"15 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/famijia/famijia_checkin.js, tag=Fa米家, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/famijia/famijia.png, enabled=true",
+      "addons":"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/famijia/famijia_checkin.qxrewrite,tag=Fa米家_获取Cookie"
+    },
+    {
+      "config":"20 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/manmanbuy/manmanbuy_checkin.js, tag=慢慢买, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/manmanbuy/manmanmai.png, enabled=true",
+      "addons":"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/manmanbuy/manmanbuy_checkin.qxrewrite,tag=慢慢买_获取Cookie"
+    },
+    {
+      "config":"5 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_signin.js, tag=每日签到, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm.png, enabled=true",
+      "addons":"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_signin.qxrewrite,tag=什么值得买_获取Cookie"
+    },
+    {
+      "config":"20 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_mission.js, tag=每日任务, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm.png, enabled=true",
+      "addons":"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_signin.qxrewrite,tag=什么值得买_获取Cookie"
+    }
+  ],
+  "description":"Script Gallery"
+}
