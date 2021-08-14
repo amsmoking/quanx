@@ -3,7 +3,11 @@
       {
         "config":"1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.js, tag=bilibili, img-url=https://raw.githubusercontent.com/Orz-3/task/master/bilibili.png, enabled=true",
         "addons":"https://raw.githubusercontent.com/amsmoking/quanx/master/script/bilibili/bilibili_qxrewrite,tag=bilibili_获取Cookie"
-      }
+      },
+      {
+        "config":"1 1 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.js, tag=bilibili, img-url=https://raw.githubusercontent.com/Orz-3/task/master/meituan.png, enabled=true",
+        "addons":"https://raw.githubusercontent.com/amsmoking/quanx/master/script/meituan/meituan_qxrewrite,tag=bilibili_获取Cookie"
+      },
     ],
     "description":"QX Script Gallery"
   }
